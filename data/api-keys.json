@@ -1,0 +1,47 @@
+{
+  "customKeys": [
+    {
+      "id": "dcb394ad-f712-48c7-97c1-e04ee4aff36d",
+      "name": "test",
+      "apiKey": "sk-77fd960d2c3b4e1dbb95a6dc1e1b6ff1",
+      "status": "active",
+      "rateLimit": 1000,
+      "usageCount": 201,
+      "createdAt": "2025-08-04T05:36:18.911Z",
+      "lastUsed": "2025-08-04T07:51:06.504Z",
+      "originalKeyId": null
+    },
+    {
+      "id": "a69ee6d2-754c-4190-9e54-06069c32a347",
+      "name": "keytest",
+      "apiKey": "sk-37809c05345c493c9588502d241d46a9",
+      "status": "active",
+      "rateLimit": 1,
+      "usageCount": 15,
+      "createdAt": "2025-08-04T08:21:53.008Z",
+      "lastUsed": "2025-08-04T08:38:01.898Z",
+      "originalKeyId": "08400d39-b6fa-40e0-ab12-a527116b5657"
+    }
+  ],
+  "originalKeys": [
+    {
+      "id": "08400d39-b6fa-40e0-ab12-a527116b5657",
+      "name": "featherops",
+      "apiKey": "sk-paxsenix-d4viIyFweGAP9Lwo8rVc0r1GUODX_ynoHsvx4w_-ii7mRDgy",
+      "endpoint": "https://api.paxsenix.biz.id/tools/tts/v2",
+      "status": "active",
+      "usageCount": 0,
+      "createdAt": "2025-08-04T08:21:17.111Z",
+      "lastUsed": null
+    }
+  ],
+  "keyMappings": {
+    "sk-37809c05345c493c9588502d241d46a9": "08400d39-b6fa-40e0-ab12-a527116b5657"
+  },
+  "usage": {
+    "2025-08-04": {
+      "sk-77fd960d2c3b4e1dbb95a6dc1e1b6ff1": 201,
+      "sk-37809c05345c493c9588502d241d46a9": 15
+    }
+  }
+}
